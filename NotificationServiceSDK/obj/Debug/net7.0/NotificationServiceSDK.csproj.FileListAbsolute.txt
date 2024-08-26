@@ -1,0 +1,12 @@
+D:\.Net\NotificationServiceSDK\NotificationServiceSDK\bin\Debug\net7.0\NotificationServiceSDK.deps.json
+D:\.Net\NotificationServiceSDK\NotificationServiceSDK\bin\Debug\net7.0\NotificationServiceSDK.dll
+D:\.Net\NotificationServiceSDK\NotificationServiceSDK\bin\Debug\net7.0\NotificationServiceSDK.pdb
+D:\.Net\NotificationServiceSDK\NotificationServiceSDK\obj\Debug\net7.0\NotificationServiceSDK.csproj.AssemblyReference.cache
+D:\.Net\NotificationServiceSDK\NotificationServiceSDK\obj\Debug\net7.0\NotificationServiceSDK.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\NotificationServiceSDK\NotificationServiceSDK\obj\Debug\net7.0\NotificationServiceSDK.AssemblyInfoInputs.cache
+D:\.Net\NotificationServiceSDK\NotificationServiceSDK\obj\Debug\net7.0\NotificationServiceSDK.AssemblyInfo.cs
+D:\.Net\NotificationServiceSDK\NotificationServiceSDK\obj\Debug\net7.0\NotificationServiceSDK.csproj.CoreCompileInputs.cache
+D:\.Net\NotificationServiceSDK\NotificationServiceSDK\obj\Debug\net7.0\NotificationServiceSDK.dll
+D:\.Net\NotificationServiceSDK\NotificationServiceSDK\obj\Debug\net7.0\refint\NotificationServiceSDK.dll
+D:\.Net\NotificationServiceSDK\NotificationServiceSDK\obj\Debug\net7.0\NotificationServiceSDK.pdb
+D:\.Net\NotificationServiceSDK\NotificationServiceSDK\obj\Debug\net7.0\ref\NotificationServiceSDK.dll

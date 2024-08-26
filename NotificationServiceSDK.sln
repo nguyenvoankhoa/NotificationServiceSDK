@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotificationServiceSDK", "NotificationServiceSDK\NotificationServiceSDK.csproj", "{1650A057-404B-412F-AA32-B312C26AF642}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{BE240510-A4F0-4F10-A054-42361EECECC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1650A057-404B-412F-AA32-B312C26AF642}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1650A057-404B-412F-AA32-B312C26AF642}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1650A057-404B-412F-AA32-B312C26AF642}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1650A057-404B-412F-AA32-B312C26AF642}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE240510-A4F0-4F10-A054-42361EECECC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE240510-A4F0-4F10-A054-42361EECECC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE240510-A4F0-4F10-A054-42361EECECC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE240510-A4F0-4F10-A054-42361EECECC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF4B6BE3-2157-4411-A469-9A5C08342BFE}
+	EndGlobalSection
+EndGlobal
